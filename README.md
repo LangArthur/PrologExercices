@@ -10,3 +10,4 @@ In this repo there are differents folders with several project. Here is the desc
 - convertExpr: this functions convert a mathematical expression by remplassing operations by there name. For example, 2+3 become add(2,3).
 - palin_and_printCube: two little exercices realized for an exam. printCube display all cubes available between two digits. Palin is a palindrom checker.
 - route_search: with a graph reprentation of several routes, a function is able to find the quickest path from one element to another on. Another functions give all possible routes.
+- 99problems: my work on the 99 prolog problems available here[https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/].
