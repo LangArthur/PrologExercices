@@ -5,8 +5,8 @@ link(q,p).
 link(k,p).
 link(k,l).
 link(l,p).
-link(k,m).
 link(k,u).
+link(k,m).
 link(m,u).
 
 
